@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\abduvokhid\source\repos\data structures - assignement 5.1\data structures - assignement 5.1\main.cpp(174): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\abduvokhid\source\repos\data structures - assignement 5.1\data structures - assignement 5.1\main.cpp(128): warning C4715: 'Stack<int>::pop': not all control paths return a value
+c:\users\abduvokhid\source\repos\data structures - assignement 5.1\data structures - assignement 5.1\main.cpp(100): warning C4715: 'Stack<int>::_top': not all control paths return a value
+c:\users\abduvokhid\source\repos\data structures - assignement 5.1\data structures - assignement 5.1\main.cpp(144): warning C4715: 'Stack<int>::_pop': not all control paths return a value
+  Data Structures - Assignement 5.1.vcxproj -> C:\Users\Abduvokhid\source\repos\Data Structures - Assignement 5.1\Debug\Data Structures - Assignement 5.1.exe
